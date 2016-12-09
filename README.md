@@ -1,2 +1,0 @@
-# aomody
-aomo电影
